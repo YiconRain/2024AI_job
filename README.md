@@ -17,7 +17,7 @@ img_path=/home/rain/wait_classify
 
 具体示例如：
 
-<img src="F:\大作业集合\ai导论\img\1718971294267.png" alt="1718971294267" style="zoom:50%;" />
+<img src="describe.png"  style="zoom:50%;" />
 
 补充说明说明：violence_224文件夹和classify.py文件处于同一目录。
 
